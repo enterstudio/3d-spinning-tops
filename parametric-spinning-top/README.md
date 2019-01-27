@@ -11,7 +11,9 @@
 </tr>
 </table>
 
-A parametric spinning top, with adjustable angle and height parameters and a common screw handle.
+A parametric spinning top, with adjustable angle, adjustable height, and a common screw handle.
+
+This design exposes two parameters, `SPINNING_TOP_ANGLE` and `SPINNING_TOP_HEIGHT`, which specify the angle and height of the spinning top body, respectively. The tip of the spinning top body is a fixed 1.5mm tall rounded tip. The spinning top body has a M6 thread that accepts the screw handle.
 
 **Design**: [Spinning Top v8.f3d](Spinning%20Top%20v8.f3d) [Spinning Top Set v16.f3d](Spinning%20Top%20Set%20v16.f3d) (Fusion 360 Archive)
 
